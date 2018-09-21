@@ -1,2 +1,1 @@
-# TechiePriyaRanjan.GitHub.io
-portfolio website
+`Prortfolio Website built in React.js`
