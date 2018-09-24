@@ -1,1 +1,1 @@
-`Prortfolio Website built in React.js`
+`Portfolio Website built in React.js`
